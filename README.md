@@ -1,9 +1,1 @@
-This dashboard provides an analysis of trending YouTube videos and includes the following elements
-Key Metrics Total views number of trending videos likes dislikes and number of channels
-Trending Videos Over Time A line chart showing the number of trending videos per month
-Top 5 Trending Videos by Views A bar chart displaying the most viewed trending videos
-Top 5 Channels by Trending Videos Analysis of the channels with the highest number of trending videos
-Top 5 Categories by Trending Videos A pie chart showing the most popular video categories
-Countries by Trending Videos A world map visualizing the distribution of trending videos by country
-Filters Users can filter the data by channel country or year
-The dashboard is designed with a clear visual style using Power BI to analyze YouTube trending video trends interactively
+The YouTube Trending Dashboard provides an interactive analysis of trending videos on YouTube using Power BI. It includes key metrics such as total views, number of trending videos, likes, dislikes, and the number of channels. The dashboard visualizes trends over time through a line chart showing the number of trending videos per month. It also highlights the top five trending videos by views and the top five channels with the highest number of trending videos. A pie chart represents the most popular categories, while a world map displays the distribution of trending videos across different countries. Users can apply filters to analyze data by channel, country, or year, making it easier to explore specific trends and insights.
